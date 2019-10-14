@@ -6,5 +6,4 @@ do
     do
         echo -n "*"                       #-n for (not new line)
     done
-    echo " "
 done
